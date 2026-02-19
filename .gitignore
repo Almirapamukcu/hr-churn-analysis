@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.ipynb_checkpoints/
+*.DS_Store
+
+# Data (if huge, but this one is small so maybe keep it? Let's exclude for safety if user wants to push code only, but user said "files" implying the project. The csv is synthetic, so safe to commit.)
+# data/
+
+# Outputs
+# outputs/
